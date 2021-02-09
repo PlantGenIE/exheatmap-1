@@ -1,0 +1,331 @@
+{
+    "data": {
+        "nodes": {
+            "0": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n16c29946"
+                ], 
+                "features": [
+                    3.5414, 
+                    3.6467, 
+                    3.5819, 
+                    4.3058, 
+                    3.9537, 
+                    3.1653, 
+                    3.2454, 
+                    2.8828, 
+                    3.1757, 
+                    2.9529, 
+                    2.098, 
+                    1.9586
+                ], 
+                "parent": 15
+            }, 
+            "1": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n1c2557"
+                ], 
+                "features": [
+                    1.5724, 
+                    1.388, 
+                    1.4482, 
+                    1.3842, 
+                    1.3563, 
+                    1.8648, 
+                    1.814, 
+                    1.6307, 
+                    2.1892, 
+                    1.8639, 
+                    2.0215, 
+                    2.0824
+                ], 
+                "parent": 17
+            }, 
+            "2": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n1c275"
+                ], 
+                "features": [
+                    2.5993, 
+                    2.5452, 
+                    2.4029, 
+                    2.6969, 
+                    2.5493, 
+                    2.4553, 
+                    2.2581, 
+                    2.1819, 
+                    2.4005, 
+                    2.3678, 
+                    1.8907, 
+                    1.969
+                ], 
+                "parent": 17
+            }, 
+            "3": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n1c3"
+                ], 
+                "features": [
+                    1.0456, 
+                    1.0282, 
+                    1.0624, 
+                    1.0907, 
+                    1.1575, 
+                    1.0465, 
+                    1.0147, 
+                    1.0106, 
+                    1.0131, 
+                    1.0679, 
+                    1.0154, 
+                    1.0179
+                ], 
+                "parent": 11
+            }, 
+            "4": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n2c5888"
+                ], 
+                "features": [
+                    3.8014, 
+                    3.6961, 
+                    4.1159, 
+                    4.4801, 
+                    4.3546, 
+                    4.102, 
+                    4.3403, 
+                    4.0687, 
+                    4.1619, 
+                    3.9185, 
+                    2.9133, 
+                    2.6465
+                ], 
+                "parent": 16
+            }, 
+            "5": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n3c7204"
+                ], 
+                "features": [
+                    1.0583, 
+                    1.0298, 
+                    1.0, 
+                    1.0794, 
+                    1.0755, 
+                    1.0, 
+                    1.0163, 
+                    1.0, 
+                    1.0, 
+                    1.0184, 
+                    1.0203, 
+                    1.0
+                ], 
+                "parent": 11
+            }, 
+            "6": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n3c8002"
+                ], 
+                "features": [
+                    1.3618, 
+                    1.2116, 
+                    1.0, 
+                    1.6301, 
+                    1.6566, 
+                    1.2289, 
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.2725, 
+                    1.3543, 
+                    1.0875
+                ], 
+                "parent": 13
+            }, 
+            "7": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n5c11345"
+                ], 
+                "features": [
+                    1.0702, 
+                    1.0575, 
+                    1.0493, 
+                    1.1934, 
+                    1.0954, 
+                    1.0, 
+                    1.0, 
+                    1.0, 
+                    1.0238, 
+                    1.0, 
+                    1.0, 
+                    1.0
+                ], 
+                "parent": 12
+            }, 
+            "8": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n6c13755"
+                ], 
+                "features": [
+                    1.2717, 
+                    1.2947, 
+                    1.2872, 
+                    1.5019, 
+                    1.3953, 
+                    1.098, 
+                    1.1112, 
+                    1.053, 
+                    1.1212, 
+                    1.1202, 
+                    1.1213, 
+                    1.2256
+                ], 
+                "parent": 13
+            }, 
+            "9": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n6c13785"
+                ], 
+                "features": [
+                    2.9277, 
+                    2.976, 
+                    3.6099, 
+                    4.1718, 
+                    3.6969, 
+                    2.8606, 
+                    2.7626, 
+                    2.5077, 
+                    2.687, 
+                    3.2027, 
+                    2.5946, 
+                    2.4508
+                ], 
+                "parent": 15
+            }, 
+            "10": {
+                "count": 1, 
+                "distance": 0, 
+                "objects": [
+                    "Potra2n7c15899"
+                ], 
+                "features": [
+                    3.3889, 
+                    3.3612, 
+                    3.1899, 
+                    2.8571, 
+                    3.2937, 
+                    3.6386, 
+                    3.8879, 
+                    3.5908, 
+                    3.6415, 
+                    3.3956, 
+                    3.6858, 
+                    3.5093
+                ], 
+                "parent": 16
+            }, 
+            "11": {
+                "count": 2, 
+                "distance": 0.127, 
+                "left_child": 3, 
+                "parent": 12, 
+                "right_child": 5
+            }, 
+            "12": {
+                "count": 3, 
+                "distance": 0.151, 
+                "left_child": 7, 
+                "parent": 14, 
+                "right_child": 11
+            }, 
+            "13": {
+                "count": 2, 
+                "distance": 0.571, 
+                "left_child": 6, 
+                "parent": 14, 
+                "right_child": 8
+            }, 
+            "14": {
+                "count": 5, 
+                "distance": 1.224, 
+                "left_child": 12, 
+                "parent": 19, 
+                "right_child": 13
+            }, 
+            "15": {
+                "count": 2, 
+                "distance": 1.472, 
+                "left_child": 0, 
+                "parent": 18, 
+                "right_child": 9
+            }, 
+            "16": {
+                "count": 2, 
+                "distance": 2.726, 
+                "left_child": 4, 
+                "parent": 18, 
+                "right_child": 10
+            }, 
+            "17": {
+                "count": 2, 
+                "distance": 2.762, 
+                "left_child": 1, 
+                "parent": 19, 
+                "right_child": 2
+            }, 
+            "18": {
+                "count": 4, 
+                "distance": 3.663, 
+                "left_child": 15, 
+                "parent": 20, 
+                "right_child": 16
+            }, 
+            "19": {
+                "count": 7, 
+                "distance": 5.494, 
+                "left_child": 14, 
+                "parent": 20, 
+                "right_child": 17
+            }, 
+            "20": {
+                "count": 11, 
+                "distance": 15.975, 
+                "left_child": 18, 
+                "right_child": 19
+            }
+        }, 
+        "feature_names": [
+            "preformed_1", 
+            "preformed_2", 
+            "preformed_3", 
+            "preformed_4", 
+            "preformed_5", 
+            "terminal_-1", 
+            "terminal_-2", 
+            "terminal_-3", 
+            "terminal_-4", 
+            "terminal_0", 
+            "terminal_1", 
+            "terminal_2"
+        ]
+    }
+}
